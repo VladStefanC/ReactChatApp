@@ -30,7 +30,6 @@ ReactChatApp is a real-time chat application built with React. It was developed 
 
 1. Clone the repository
 
-```bash
 git clone https://github.com/VladStefanC/ReactChatApp.git
 
 3. Navigate into project directory
